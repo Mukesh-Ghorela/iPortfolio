@@ -425,8 +425,8 @@ h6 {
   position: fixed;
   visibility: hidden;
   opacity: 0;
-  right: 15px;
-  bottom: -15px;
+  right: 35px;
+  bottom: 132px;
   z-index: 99999;
   background-color: var(--accent-color);
   width: 44px;
@@ -449,7 +449,7 @@ h6 {
 .scroll-top.active {
   visibility: visible;
   opacity: 1;
-  bottom: 15px;
+  /* bottom: 15px; */
 }
 
 /*--------------------------------------------------------------
